@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nlp on David Gadyan</title>
+    <link>https://DavitGadyan.github.io/portfolio_app/categories/nlp/</link>
+    <description>Recent content in nlp on David Gadyan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Sun, 31 Dec 2023 12:14:34 +0600</lastBuildDate><atom:link href="https://DavitGadyan.github.io/portfolio_app/categories/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data analysis of resumes</title>
+      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-20/</link>
+      <pubDate>Sun, 31 Dec 2023 12:14:34 +0600</pubDate>
+      
+      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-20/</guid>
+      <description>Project goals were to create apply NLP and AI tools, models to analyze and compare two sets of resumes to find not obvious patterns, similarities and differences between 2 major group (High VS Low Value Prospect Candidates)</description>
+    </item>
+    
+    <item>
+      <title>LDA and LIWC Analysis of tweets</title>
+      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-10/</link>
+      <pubDate>Wed, 27 Jan 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-10/</guid>
+      <description>Goal of the project was to conduct LDA and LIWC analysis on Trump&amp;rsquo;s tweets regarding Covid and few other topics.</description>
+    </item>
+    
+    <item>
+      <title>Stock Trend &amp; Senti ment Analysis</title>
+      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-2/</link>
+      <pubDate>Fri, 04 Dec 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-2/</guid>
+      <description>Project aims to create a web-based UI to analyse trending stocks and sentiment with regards to specific stocks.</description>
+    </item>
+    
+  </channel>
+</rss>
