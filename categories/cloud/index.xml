@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cloud on David Gadyan</title>
+    <link>https://DavitGadyan.github.io/portfolio_app/categories/cloud/</link>
+    <description>Recent content in cloud on David Gadyan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Tue, 09 Apr 2024 12:14:34 +0600</lastBuildDate><atom:link href="https://DavitGadyan.github.io/portfolio_app/categories/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Science Consulting &amp; Review</title>
+      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-25/</link>
+      <pubDate>Tue, 09 Apr 2024 12:14:34 +0600</pubDate>
+      
+      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-25/</guid>
+      <description>Project goals were to manage a team of AI engineers to develop hybrid recommender system.</description>
+    </item>
+    
+    <item>
+      <title>Build a Google Vision AI System</title>
+      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-18/</link>
+      <pubDate>Fri, 03 Nov 2023 12:14:34 +0600</pubDate>
+      
+      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-18/</guid>
+      <description>Project goals were to utilize Google Cloud Product Search API and detect clothers similar to ones user of this application provides.</description>
+    </item>
+    
+    <item>
+      <title>Need to develop matching AI powered web app platform</title>
+      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-19/</link>
+      <pubDate>Sat, 15 Jul 2023 12:14:34 +0600</pubDate>
+      
+      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-19/</guid>
+      <description>Project goals were to create AI powered website to calculate synergy scores for SMEs.</description>
+    </item>
+    
+    <item>
+      <title>Scrapy &#43; Bigquery &#43; Cloud</title>
+      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-11/</link>
+      <pubDate>Wed, 09 Jun 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-11/</guid>
+      <description>Goal of the project was to extract information for damaged cars from a website that did not have proper API support.</description>
+    </item>
+    
+    <item>
+      <title>Scrapy &#43; AWS EC2 &#43; S3</title>
+      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-5/</link>
+      <pubDate>Mon, 19 Apr 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-5/</guid>
+      <description>The main goal of project was to develop a web scraping solution to collect data from millions of pages from indeed.</description>
+    </item>
+    
+    <item>
+      <title>Algo rithmic Trading Python</title>
+      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-7/</link>
+      <pubDate>Tue, 02 Mar 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-7/</guid>
+      <description>Goal of the project was to create a trading bot which will trade cryptocurrencies on few exchanges like Binance etc.</description>
+    </item>
+    
+    <item>
+      <title>Image Back ground Removal</title>
+      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-6/</link>
+      <pubDate>Thu, 03 Dec 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-6/</guid>
+      <description>Goal of the project was to remove background from images of apparel.</description>
+    </item>
+    
+    <item>
+      <title>Python Cluster Analysis App</title>
+      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-1/</link>
+      <pubDate>Mon, 25 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-1/</guid>
+      <description>The goal of this project was to create a tool using which users can analyse data in various ways by applying machine learning clusterization and other methods on specific datasets.</description>
+    </item>
+    
+    <item>
+      <title>AI powered Scrapy bot</title>
+      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-8/</link>
+      <pubDate>Mon, 30 Dec 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-8/</guid>
+      <description>Goal of the project was to create a Scrapy bot which will go to thousands of websites from particular sector and extract most important data points like company about page, address, news and specifically employee realted information.</description>
+    </item>
+    
+  </channel>
+</rss>
