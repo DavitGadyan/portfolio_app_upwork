@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>r on David Gadyan</title>
-    <link>https://DavitGadyan.github.io/portfolio_app/categories/r/</link>
+    <link>https://DavitGadyan.github.io/portfolio_app_upwork/categories/r/</link>
     <description>Recent content in r on David Gadyan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Thu, 07 Mar 2024 12:14:34 +0600</lastBuildDate><atom:link href="https://DavitGadyan.github.io/portfolio_app/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Mar 2024 12:14:34 +0600</lastBuildDate><atom:link href="https://DavitGadyan.github.io/portfolio_app_upwork/categories/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Expert with R software</title>
-      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-23/</link>
+      <link>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-23/</link>
       <pubDate>Thu, 07 Mar 2024 12:14:34 +0600</pubDate>
       
-      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-23/</guid>
+      <guid>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-23/</guid>
       <description>Project goals were to develop and integrate R script into existing Vue.</description>
     </item>
     

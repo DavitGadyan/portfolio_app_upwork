@@ -2,162 +2,162 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>machine learning on David Gadyan</title>
-    <link>https://DavitGadyan.github.io/portfolio_app/categories/machine-learning/</link>
+    <link>https://DavitGadyan.github.io/portfolio_app_upwork/categories/machine-learning/</link>
     <description>Recent content in machine learning on David Gadyan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Wed, 30 Oct 2024 12:14:34 +0600</lastBuildDate><atom:link href="https://DavitGadyan.github.io/portfolio_app/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Oct 2024 12:14:34 +0600</lastBuildDate><atom:link href="https://DavitGadyan.github.io/portfolio_app_upwork/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data visualization expert</title>
-      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-30/</link>
+      <link>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-30/</link>
       <pubDate>Wed, 30 Oct 2024 12:14:34 +0600</pubDate>
       
-      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-30/</guid>
+      <guid>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-30/</guid>
       <description>Project goals were to build an AI‐driven real estate analysis platform that models and compares new‐construction scenarios—home styles, sizes, garages, basements, prices and locations—to pinpoint the most profitable builds on each lot.</description>
     </item>
     
     <item>
       <title>Classification of industry of firm</title>
-      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-27/</link>
+      <link>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-27/</link>
       <pubDate>Thu, 08 Aug 2024 12:14:34 +0600</pubDate>
       
-      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-27/</guid>
+      <guid>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-27/</guid>
       <description>Project goals were to infer the industry sectors of New York–based firms—without pre-existing labels—by matching them to reference datasets and then building a machine-learning model to predict NAICS/SIC codes at scale.</description>
     </item>
     
     <item>
       <title>Gemini LangGraph LLM Agent</title>
-      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-28/</link>
+      <link>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-28/</link>
       <pubDate>Tue, 06 Aug 2024 12:14:34 +0600</pubDate>
       
-      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-28/</guid>
+      <guid>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-28/</guid>
       <description>Project goals were to enhance and extend a document‐review API for a law-firm due diligence workflow, adding dynamic verification checks, external ABN/ACN validation, and configurable recommendations—all powered by a MultiAgent AI pipeline.</description>
     </item>
     
     <item>
       <title>Quant /Python/ PCA Analysis</title>
-      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-26/</link>
+      <link>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-26/</link>
       <pubDate>Mon, 29 Apr 2024 12:14:34 +0600</pubDate>
       
-      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-26/</guid>
+      <guid>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-26/</guid>
       <description>Project goals were to build a streamlined Python pipeline to perform PCA analysis on different sectors of the yield curve and flag which sectors were cheap or expensive based on their residuals.</description>
     </item>
     
     <item>
       <title>Data Science Consulting &amp; Review</title>
-      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-25/</link>
+      <link>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-25/</link>
       <pubDate>Tue, 09 Apr 2024 12:14:34 +0600</pubDate>
       
-      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-25/</guid>
+      <guid>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-25/</guid>
       <description>Project goals were to manage a team of AI engineers to develop hybrid recommender system.</description>
     </item>
     
     <item>
       <title>Data Expert with R software</title>
-      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-23/</link>
+      <link>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-23/</link>
       <pubDate>Thu, 07 Mar 2024 12:14:34 +0600</pubDate>
       
-      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-23/</guid>
+      <guid>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-23/</guid>
       <description>Project goals were to develop and integrate R script into existing Vue.</description>
     </item>
     
     <item>
       <title>Data analysis of resumes</title>
-      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-20/</link>
+      <link>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-20/</link>
       <pubDate>Sun, 31 Dec 2023 12:14:34 +0600</pubDate>
       
-      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-20/</guid>
+      <guid>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-20/</guid>
       <description>Project goals were to create apply NLP and AI tools, models to analyze and compare two sets of resumes to find not obvious patterns, similarities and differences between 2 major group (High VS Low Value Prospect Candidates)</description>
     </item>
     
     <item>
       <title>Build a Google Vision AI System</title>
-      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-18/</link>
+      <link>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-18/</link>
       <pubDate>Fri, 03 Nov 2023 12:14:34 +0600</pubDate>
       
-      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-18/</guid>
+      <guid>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-18/</guid>
       <description>Project goals were to utilize Google Cloud Product Search API and detect clothers similar to ones user of this application provides.</description>
     </item>
     
     <item>
       <title>Need to develop matching AI powered web app platform</title>
-      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-19/</link>
+      <link>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-19/</link>
       <pubDate>Sat, 15 Jul 2023 12:14:34 +0600</pubDate>
       
-      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-19/</guid>
+      <guid>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-19/</guid>
       <description>Project goals were to create AI powered website to calculate synergy scores for SMEs.</description>
     </item>
     
     <item>
       <title>Automated Valution model &amp; Real Estate Bot</title>
-      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-15/</link>
+      <link>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-15/</link>
       <pubDate>Wed, 07 Jul 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-15/</guid>
+      <guid>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-15/</guid>
       <description>Project goals were to create Automated Valuation model and Bot for Australian Real Estate Market.</description>
     </item>
     
     <item>
       <title>Entity Resolution</title>
-      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-4/</link>
+      <link>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-4/</link>
       <pubDate>Wed, 30 Jun 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-4/</guid>
+      <guid>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-4/</guid>
       <description>Entity resolution (ER) is the task of disambiguating records that correspond to real world entities across and within datasets.</description>
     </item>
     
     <item>
       <title>Algo rithmic Trading Python</title>
-      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-7/</link>
+      <link>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-7/</link>
       <pubDate>Tue, 02 Mar 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-7/</guid>
+      <guid>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-7/</guid>
       <description>Goal of the project was to create a trading bot which will trade cryptocurrencies on few exchanges like Binance etc.</description>
     </item>
     
     <item>
       <title>LDA and LIWC Analysis of tweets</title>
-      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-10/</link>
+      <link>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-10/</link>
       <pubDate>Wed, 27 Jan 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-10/</guid>
+      <guid>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-10/</guid>
       <description>Goal of the project was to conduct LDA and LIWC analysis on Trump&amp;rsquo;s tweets regarding Covid and few other topics.</description>
     </item>
     
     <item>
       <title>Stock Trend &amp; Senti ment Analysis</title>
-      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-2/</link>
+      <link>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-2/</link>
       <pubDate>Fri, 04 Dec 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-2/</guid>
+      <guid>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-2/</guid>
       <description>Project aims to create a web-based UI to analyse trending stocks and sentiment with regards to specific stocks.</description>
     </item>
     
     <item>
       <title>Python Cluster Analysis App</title>
-      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-1/</link>
+      <link>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-1/</link>
       <pubDate>Mon, 25 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-1/</guid>
+      <guid>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-1/</guid>
       <description>The goal of this project was to create a tool using which users can analyse data in various ways by applying machine learning clusterization and other methods on specific datasets.</description>
     </item>
     
     <item>
       <title>AI powered Scrapy bot</title>
-      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-8/</link>
+      <link>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-8/</link>
       <pubDate>Mon, 30 Dec 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-8/</guid>
+      <guid>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-8/</guid>
       <description>Goal of the project was to create a Scrapy bot which will go to thousands of websites from particular sector and extract most important data points like company about page, address, news and specifically employee realted information.</description>
     </item>
     
     <item>
       <title>Recommender System</title>
-      <link>https://DavitGadyan.github.io/portfolio_app/portfolio/project-9/</link>
+      <link>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-9/</link>
       <pubDate>Sun, 10 Feb 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://DavitGadyan.github.io/portfolio_app/portfolio/project-9/</guid>
+      <guid>https://DavitGadyan.github.io/portfolio_app_upwork/portfolio/project-9/</guid>
       <description>Goal of the project was to create a recommender system for a matchmaking website.</description>
     </item>
     

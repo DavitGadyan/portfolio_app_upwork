@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on David Gadyan</title>
-    <link>https://DavitGadyan.github.io/portfolio_app/tags/</link>
+    <link>https://DavitGadyan.github.io/portfolio_app_upwork/tags/</link>
     <description>Recent content in Tags on David Gadyan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Mon, 17 Jul 2023 12:17:32 +0600</lastBuildDate><atom:link href="https://DavitGadyan.github.io/portfolio_app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jul 2023 12:17:32 +0600</lastBuildDate><atom:link href="https://DavitGadyan.github.io/portfolio_app_upwork/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>data science</title>
-      <link>https://DavitGadyan.github.io/portfolio_app/tags/data-science/</link>
+      <link>https://DavitGadyan.github.io/portfolio_app_upwork/tags/data-science/</link>
       <pubDate>Mon, 17 Jul 2023 12:17:32 +0600</pubDate>
       
-      <guid>https://DavitGadyan.github.io/portfolio_app/tags/data-science/</guid>
+      <guid>https://DavitGadyan.github.io/portfolio_app_upwork/tags/data-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>education</title>
-      <link>https://DavitGadyan.github.io/portfolio_app/tags/education/</link>
+      <link>https://DavitGadyan.github.io/portfolio_app_upwork/tags/education/</link>
       <pubDate>Mon, 17 Jul 2023 12:17:32 +0600</pubDate>
       
-      <guid>https://DavitGadyan.github.io/portfolio_app/tags/education/</guid>
+      <guid>https://DavitGadyan.github.io/portfolio_app_upwork/tags/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>masters</title>
-      <link>https://DavitGadyan.github.io/portfolio_app/tags/masters/</link>
+      <link>https://DavitGadyan.github.io/portfolio_app_upwork/tags/masters/</link>
       <pubDate>Mon, 17 Jul 2023 12:17:32 +0600</pubDate>
       
-      <guid>https://DavitGadyan.github.io/portfolio_app/tags/masters/</guid>
+      <guid>https://DavitGadyan.github.io/portfolio_app_upwork/tags/masters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>math</title>
-      <link>https://DavitGadyan.github.io/portfolio_app/tags/math/</link>
+      <link>https://DavitGadyan.github.io/portfolio_app_upwork/tags/math/</link>
       <pubDate>Tue, 04 Apr 2023 12:17:32 +0600</pubDate>
       
-      <guid>https://DavitGadyan.github.io/portfolio_app/tags/math/</guid>
+      <guid>https://DavitGadyan.github.io/portfolio_app_upwork/tags/math/</guid>
       <description></description>
     </item>
     
     <item>
       <title>work</title>
-      <link>https://DavitGadyan.github.io/portfolio_app/tags/work/</link>
+      <link>https://DavitGadyan.github.io/portfolio_app_upwork/tags/work/</link>
       <pubDate>Wed, 12 Jan 2022 12:14:34 +0600</pubDate>
       
-      <guid>https://DavitGadyan.github.io/portfolio_app/tags/work/</guid>
+      <guid>https://DavitGadyan.github.io/portfolio_app_upwork/tags/work/</guid>
       <description></description>
     </item>
     
